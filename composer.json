@@ -3,7 +3,7 @@
     "type": "laravel-module",
     "description": "",
     "require": {
-        "nwidart/laravel-modules": "^7.1",
+        "nwidart/laravel-modules": "^8.2",
         "joshbrw/laravel-module-installer": "^1.0"
     },
     "repositories": [
